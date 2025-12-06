@@ -1,4 +1,5 @@
-#Smart Vehicle Compliance & Fake Number Plate Detection System
+Smart Vehicle Compliance & Fake Number Plate Detection System
+
 A real-time computer vision system that detects vehicle license plates, extracts text using OCR, and verifies plate authenticity by cross-checking with a government database. Designed to identify fake, mismatched, or non-compliant number plates using a combination of detection models, OCR pipelines, and database validation.
 
 
